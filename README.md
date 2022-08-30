@@ -11,4 +11,8 @@ CLASS 10th, 12th ICSE , Questions and assignments for Practice in ```JAVA```
 - These problems are of more importance and practising them has more benefits in your exam. 
 - They also pertain to the similar topics as discussed above.
 
+### Programs can be run in BlueJ IDE or directly in terminal by running the command :-
+```bash 
+java File_name.java 
+```
 #### ```NOTE``` : For any queries/ improvements/ suggestions, please feel free to mail : sutharsanraj2001@gmail.com
